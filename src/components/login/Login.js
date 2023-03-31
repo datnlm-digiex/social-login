@@ -11,7 +11,7 @@ import { login } from "../../store/features/auth";
 import { gapi } from "gapi-script";
 
 const Login = () => {
-  const clientId = "228964166480-lcd18lq76j77s5t4jqu2ehpehituh4do.apps.googleusercontent.com";
+  const clientId = "4187011526-1tlf1rukt366bf61h8m7vo3v89fsm2hv.apps.googleusercontent.com";
   const dispatch = useDispatch();
   // useEffect(()=> {
   //   gapi.load("client:auth2", ()=> {
